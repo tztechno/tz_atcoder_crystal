@@ -1,0 +1,9 @@
+//abc166_a.crystal
+################################
+S = gets.not_nil!
+if S=="ABC"
+  puts "ARC"
+else
+  puts "ABC"
+end
+################################
