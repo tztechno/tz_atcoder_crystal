@@ -51,3 +51,7 @@ if arr && arr[0] && arr[1]
 end
 
 ################################
+a, b = read_line.split.map(&.to_i)
+c = a*b
+puts ["Even","Odd"][c%2]
+################################
