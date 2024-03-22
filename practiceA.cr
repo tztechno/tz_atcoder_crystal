@@ -1,4 +1,4 @@
-//practiceA.crystal
+//practiceA.cr
 ##################################
 1
 2 3
