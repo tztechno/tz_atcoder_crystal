@@ -1,4 +1,4 @@
-//abc166_a.crystal
+//abc166_a.cr
 ################################
 S = gets.not_nil!
 if S=="ABC"
