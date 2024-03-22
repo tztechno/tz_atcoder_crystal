@@ -1,5 +1,4 @@
-//abc285_d.cry
-
+//abc285_d.cr
 
 # require "atcoder"
 # include AtCoder
