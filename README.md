@@ -27,6 +27,8 @@ https://play.crystal-lang.org/#/cr
 ```
 ---
 ```
-
+入力様式
+n = read_line.to_i
+a, b = read_line.split.map(&.to_i)
 ```
 ---
