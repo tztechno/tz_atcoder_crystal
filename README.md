@@ -7,3 +7,26 @@ https://crystal-lang.org/
 https://play.crystal-lang.org/#/cr
 
 .cr
+
+### latest
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+
+```
+---
