@@ -23,7 +23,8 @@ https://play.crystal-lang.org/#/cr
 ```
 ---
 ```
-
+if文
+if x==7||x==5||x==3
 ```
 ---
 ```
