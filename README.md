@@ -9,6 +9,7 @@ https://play.crystal-lang.org/#/cr
 .cr
 
 ### latest
+
 ---
 ```
 
@@ -20,6 +21,31 @@ https://play.crystal-lang.org/#/cr
 ---
 ```
 
+```
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+
+```
+---
+```
+hash = {"A" => "T", "C" => "G", "G" => "C", "T" => "A"}
+puts hash[read_line]
 ```
 ---
 ```
